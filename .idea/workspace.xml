@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="513faf94-e706-4506-afed-d7880f6f6247" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Neat_network.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-feedforward" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feature_selection/KNN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feature_selection/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feature_selection/data/iris.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feature_selection/data/wdbc.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feature_selection/featureSelection_neat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feature_selection/visualize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visualize.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="513faf94-e706-4506-afed-d7880f6f6247" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,12 +228,12 @@
       <workItem from="1561104948614" duration="4567000" />
       <workItem from="1561512858405" duration="10077000" />
       <workItem from="1561687187519" duration="28686000" />
-      <workItem from="1561949222295" duration="1858000" />
+      <workItem from="1561949222295" duration="2459000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45188000" />
+    <option name="totallyTimeSpent" value="45789000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
